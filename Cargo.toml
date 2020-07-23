@@ -1,0 +1,12 @@
+[package]
+name = "y4m-tools"
+version = "0.1.0"
+authors = ["Luca Barbato <lu_zero@gentoo.org>"]
+edition = "2018"
+
+
+[dependencies]
+y4m = "0.6.1"
+argh = "0.1"
+anyhow = "1.0"
+
